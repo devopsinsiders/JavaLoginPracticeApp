@@ -1,7 +1,7 @@
 # JavaLoginShowcase 🚀
-![alt text](image.png)
-
 This repository contains a sample login page implemented in Java for practicing Java deployment techniques. It includes a stylish and functional login UI, designed to help you understand how to deploy and manage a Java-based web application. 💻✨
+
+![alt text](image.png)
 
 ## Features:
 - User-friendly login interface 🖥️
